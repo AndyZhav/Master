@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="867793a1-9f81-4f4d-9592-7721a0c57a9d">
+  <name>Тестовая</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестовая</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="a5c05aaf-9065-4d2e-9a28-617639ac8984"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="670f3023-8aa9-4e3c-9635-a5242491135b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="2f53d6f7-3c43-4bd8-ab72-a8b23cd5da83"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="f2fcee2c-701b-4df0-a425-ca978af52491"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="e90e157e-8b09-4a26-9fec-d3d1a0f8f382"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="aa2d7ac8-a913-4102-ad54-0910042a8447"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="c816d42d-b28f-4f88-a152-fc45fb2d1b10"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <languages uuid="6e7230a9-bb53-499b-b514-3555f568dd2f">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Справочники</subsystems>
+  <catalogs>Catalog.Контрагенты</catalogs>
+</mdclass:Configuration>
